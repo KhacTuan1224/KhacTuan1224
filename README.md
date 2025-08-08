@@ -23,3 +23,6 @@
 </div>
 <br>
 
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_//KhacTuan1224?chart=3dbar&format=svg" />
+</div>
